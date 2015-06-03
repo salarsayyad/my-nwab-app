@@ -1,0 +1,22 @@
+{
+  "name": "my-nwab-app",
+  "version": "0.0.1",
+  "main": "app/index.html",
+  "window": {
+    "title": "my-nwab-app",
+    "toolbar": true,
+    "frame": true,
+    "position": "center",
+    "fullscreen": false,
+    "resizable": true,
+    "width": 1000,
+    "height": 600,
+    "min_width": 600,
+    "min_height": 400
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-shell": "^0.4.1",
+    "node-webkit-builder": "^1.0.11"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "my-nwab-app",
+  "version": "0.0.1",
+  "authors": [
+    "Salar Sayyad <salar.sayyad@gmail.com>"
+  ],
+  "description": "skeleton NW.js+Angular+Bootstrap app",
+  "main": "app/index.html",
+  "keywords": [
+    "nw",
+    "node-webkit",
+    "angular",
+    "bootstrap",
+    "node-webkit-builder",
+    "gulp",
+    "skeleton"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "bootstrap": "~3.3.4"
+  }
+}
